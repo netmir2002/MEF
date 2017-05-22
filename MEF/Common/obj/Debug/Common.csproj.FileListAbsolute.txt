@@ -1,0 +1,5 @@
+C:\TestersProjects\MEF\MEF\Common\bin\Debug\Common.dll
+C:\TestersProjects\MEF\MEF\Common\bin\Debug\Common.pdb
+C:\TestersProjects\MEF\MEF\Common\obj\Debug\Common.dll
+C:\TestersProjects\MEF\MEF\Common\obj\Debug\Common.pdb
+C:\TestersProjects\MEF\MEF\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

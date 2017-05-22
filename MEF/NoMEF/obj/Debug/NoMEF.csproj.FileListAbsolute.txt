@@ -1,0 +1,9 @@
+C:\TestersProjects\MEF\MEF\NoMEF\bin\Debug\NoMEF.dll
+C:\TestersProjects\MEF\MEF\NoMEF\bin\Debug\NoMEF.pdb
+C:\TestersProjects\MEF\MEF\NoMEF\bin\Debug\Common.dll
+C:\TestersProjects\MEF\MEF\NoMEF\bin\Debug\Dukim.dll
+C:\TestersProjects\MEF\MEF\NoMEF\bin\Debug\Common.pdb
+C:\TestersProjects\MEF\MEF\NoMEF\bin\Debug\Dukim.pdb
+C:\TestersProjects\MEF\MEF\NoMEF\obj\Debug\NoMEF.csprojResolveAssemblyReference.cache
+C:\TestersProjects\MEF\MEF\NoMEF\obj\Debug\NoMEF.dll
+C:\TestersProjects\MEF\MEF\NoMEF\obj\Debug\NoMEF.pdb

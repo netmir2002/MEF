@@ -1,0 +1,5 @@
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\XBox.dll
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\XBox.pdb
+C:\TestersProjects\MEF\MEF\XBox\obj\Debug\XBox.csprojResolveAssemblyReference.cache
+C:\TestersProjects\MEF\MEF\XBox\obj\Debug\XBox.dll
+C:\TestersProjects\MEF\MEF\XBox\obj\Debug\XBox.pdb

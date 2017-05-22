@@ -1,0 +1,14 @@
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\MainProject.exe.config
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\MainProject.exe
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\MainProject.pdb
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\NoMEF.dll
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\Common.dll
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\NoMEF.pdb
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\Common.pdb
+C:\TestersProjects\MEF\MEF\MainProject\obj\Debug\MainProject.csprojResolveAssemblyReference.cache
+C:\TestersProjects\MEF\MEF\MainProject\obj\Debug\MainProject.exe
+C:\TestersProjects\MEF\MEF\MainProject\obj\Debug\MainProject.pdb
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\MEF.dll
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\MEF.pdb
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\Dukim.dll
+C:\TestersProjects\MEF\MEF\MainProject\bin\Debug\Dukim.pdb
